@@ -12,6 +12,7 @@ public class ClonarRepaso {
      */
     public static void main(String[] args) {
         System.out.println("PROPIETARIO: Hola.");
+        System.out.println("COLABORADOR: Hola. ¿Qué tal?");
     }
     
 }
